@@ -15,6 +15,7 @@ This Telegram bot is an AI-powered assistant that provides multiple functionalit
 3. **📰 Latest News Search**  
    - Fetches real-time news from the internet on any topic.
    - Provides concise and relevant summaries.
+   - Provides links to few news channels if user requires.
 
 4. **💡 AI-Powered Query Answering**  
    - Ask any question, and the bot will generate an intelligent response using AI.
@@ -24,6 +25,10 @@ This Telegram bot is an AI-powered assistant that provides multiple functionalit
    - Supports `/translate <language_code> <text>` format.
 
 ---
+## Storage In MongoDB
+ - Image summary
+ - File summary
+ - Chat interaction of user and bot
 
 ## 🔧 Installation & Setup
 ### **1️⃣ Prerequisites**
