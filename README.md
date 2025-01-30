@@ -25,7 +25,7 @@ This Telegram bot is an AI-powered assistant that provides multiple functionalit
    - Supports `/translate <language_code> <text>` format.
 
 ---
-## Storage In MongoDB
+## 🗄️ Storage In MongoDB
  - Image summary
  - File summary
  - Chat interaction of user and bot
