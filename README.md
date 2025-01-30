@@ -1,4 +1,4 @@
-# 📢 Telegram Bot - Your AI-Powered Assistant
+# 📢 Telegram BOT - Your AI-Powered Assistant
 
 ## 🚀 Features
 This Telegram bot is an AI-powered assistant that provides multiple functionalities, including:
