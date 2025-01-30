@@ -1,0 +1,10 @@
+telegram
+googlesearch-python
+google.generativeai
+pymongo
+python-dotenv
+pillow
+os
+handlers
+pymupdf
+deep_translator
